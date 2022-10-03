@@ -1,1 +1,4 @@
-with email send mas
+- email send mas
+- Fogot Password and sending to your email mas
+- Remember me
+- with upload profile picture gan
